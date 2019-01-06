@@ -1,0 +1,59 @@
+﻿<Window x:Class="PLWPF.Test.WindowUpdateTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF.Test"
+        mc:Ignorable="d"
+        Title="WindowUpdateTest" Height="557.292" Width="1001.906">
+    <Grid Background="#FFB4E0E9">
+        <Label Content="UPDATE TEST" HorizontalAlignment="Center" Margin="259,25,246.333,0" VerticalAlignment="Top" Height="56" Width="288" FontFamily="Rockwell Nova Cond Light" FontSize="30" FontWeight="Bold"/>
+        <Label Content="Test Number:" HorizontalAlignment="Left" Margin="94,131,0,0" VerticalAlignment="Top" Width="138" FontSize="20"/>
+        <ComboBox x:Name="CmbTestNumber" HorizontalAlignment="Left" Height="30" Margin="246,132,0,0" VerticalAlignment="Top" Width="190" SelectedValue="{Binding NumTest, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=True, ValidatesOnExceptions=true}"/>
+        <Label Content="Id Tester:" HorizontalAlignment="Left" Margin="94,168,0,0" VerticalAlignment="Top" Width="110" FontSize="20"/>
+        <TextBox x:Name="TxIdTester" HorizontalAlignment="Left" Height="30" Margin="246,172,0,0" TextWrapping="Wrap" Text="{Binding TesterId, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="190"/>
+        <Label Content="Id Trainee:" HorizontalAlignment="Left" Margin="94,204,0,0" VerticalAlignment="Top" Width="110" FontSize="20"/>
+        <TextBox x:Name="TxIdTrainee" HorizontalAlignment="Left" Height="30" Margin="248,211,0,0" TextWrapping="Wrap" Text="{Binding TraineeId, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="190"/>
+        <Label Content="Test Date:" HorizontalAlignment="Left" Margin="94,243,0,0" VerticalAlignment="Top" Width="110" FontSize="20"/>
+        <DatePicker x:Name="DpTestDate" HorizontalAlignment="Left" Height="30" Width="190" Margin="246,250,0,0" VerticalAlignment="Top" SelectedDate="{Binding DateTest, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" IsTodayHighlighted="True" Text="today" DisplayDateStart="1/1/2019" IsDropDownOpen="False" DisplayDate="1/1/2019" />
+        <Label Content="Test Time:" HorizontalAlignment="Left" Margin="94,280,0,0" VerticalAlignment="Top" Width="110" FontSize="20"/>
+        <ComboBox x:Name="CmbTestTime" HorizontalAlignment="Left" Height="30" Margin="246,287,0,0" VerticalAlignment="Top" Width="190" SelectedItem="{Binding TimeTest, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=True, ValidatesOnExceptions=true}">
+            <ComboBoxItem Content="9:00"/>
+            <ComboBoxItem Content="10:00"/>
+            <ComboBoxItem Content="11:00"/>
+            <ComboBoxItem Content="12:00"/>
+            <ComboBoxItem Content="13:00"/>
+            <ComboBoxItem Content="14:00"/>
+            <ComboBoxItem Content="15:00"/>
+        </ComboBox>
+        <Label Content="Start Address:" HorizontalAlignment="Left" Margin="94,322,0,0" VerticalAlignment="Top" Width="143" FontSize="20"/>
+        <Label Content="Street:" HorizontalAlignment="Left" Margin="238,327,0,0" VerticalAlignment="Top" Width="59" FontSize="15"/>
+        <TextBox x:Name="TxStartAddressStreet" HorizontalAlignment="Left" Height="30" Margin="310,327,0,0" TextWrapping="Wrap" Text="{Binding AddressBegin.street, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Number:" HorizontalAlignment="Left" Margin="238,362,0,0" VerticalAlignment="Top" Width="68" FontSize="15"/>
+        <TextBox x:Name="TxStartAddressNumber" HorizontalAlignment="Left" Height="30" Margin="310,362,0,0" TextWrapping="Wrap" Text="{Binding AddressBegin.number, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="126"/>
+        <Label Content="City:" HorizontalAlignment="Left" Margin="238,397,0,0" VerticalAlignment="Top" Width="68" FontSize="15"/>
+        <TextBox x:Name="TxStartAddressCity" HorizontalAlignment="Left" Height="30" Margin="311,397,0,0" TextWrapping="Wrap" Text="{Binding AddressBegin, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Type Car:" HorizontalAlignment="Left" Margin="94,425,0,0" VerticalAlignment="Top" Width="123" FontSize="20"/>
+        <ComboBox x:Name="CmbTypeCar" HorizontalAlignment="Left" Height="30" Margin="248,432,0,0" VerticalAlignment="Top" Width="190" SelectedItem="{Binding CarLearning, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=True, ValidatesOnExceptions=true}"/>
+        <Button x:Name="BtUpdateTester" Content="UPDATE" HorizontalAlignment="Left" Margin="673,379,0,0" VerticalAlignment="Top" Width="282" Height="78" Click="Button_ClickUpdate" FontSize="30" FontFamily="Rockwell Nova Cond Light" Background="#FF57A8D1"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="auto" Margin="678,469,0,0" VerticalAlignment="Top" Width="307" Source="/PLWPF;component/images/משרד התחבורה.png"/>
+        <Label Content="Keeping distance:" HorizontalAlignment="Left" Margin="492,131,0,0" VerticalAlignment="Top" Width="175" FontSize="20"/>
+        <CheckBox x:Name="chBKeepingDistance" Content="" HorizontalAlignment="Left" Margin="672,147,0,0" VerticalAlignment="Top"/>
+        <Label Content="Parking Revers:" HorizontalAlignment="Left" Margin="492,173,0,0" VerticalAlignment="Top" Width="175" FontSize="20"/>
+        <CheckBox x:Name="chBParkingRevers" Content="" HorizontalAlignment="Left" Margin="672,187,0,0" VerticalAlignment="Top"/>
+        <Label Content="Looking at mirrors:" HorizontalAlignment="Left" Margin="492,215,0,0" VerticalAlignment="Top" Width="175" FontSize="20"/>
+        <CheckBox x:Name="chBLookingMirrors" Content="" HorizontalAlignment="Left" Margin="672,228,0,0" VerticalAlignment="Top"/>
+        <Label Content="Using a vinker:" HorizontalAlignment="Left" Margin="492,257,0,0" VerticalAlignment="Top" Width="175" FontSize="20"/>
+        <CheckBox x:Name="chBUsingVinker" Content="" HorizontalAlignment="Left" Margin="672,269,0,0" VerticalAlignment="Top"/>
+        <Label Content="Driving right lane:" HorizontalAlignment="Left" Margin="492,298,0,0" VerticalAlignment="Top" Width="175" FontSize="20"/>
+        <CheckBox x:Name="chBDrivingRightLane" Content="" HorizontalAlignment="Left" Margin="672,312,0,0" VerticalAlignment="Top"/>
+        <Label Content="Speed ​​Test:" HorizontalAlignment="Left" Margin="746,135,0,0" VerticalAlignment="Top" Width="120" FontSize="20"/>
+        <CheckBox x:Name="chBSpeedTest" Content="" HorizontalAlignment="Left" Margin="875,147,0,0" VerticalAlignment="Top"/>
+        <Label Content="Is Passed:" HorizontalAlignment="Left" Margin="746,177,0,0" VerticalAlignment="Top" Width="120" FontSize="20"/>
+        <CheckBox x:Name="chBIsPassed" Content="" HorizontalAlignment="Left" Margin="875,187,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tester response:" HorizontalAlignment="Left" Margin="746,217,0,0" VerticalAlignment="Top" Width="161" FontSize="20"/>
+        <TextBox x:Name="TxTesterNote" HorizontalAlignment="Left" Height="88" Margin="759,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186"/>
+
+
+    </Grid>
+</Window>

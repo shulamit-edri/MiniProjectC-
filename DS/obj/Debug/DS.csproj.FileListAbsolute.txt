@@ -1,0 +1,20 @@
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\DS\bin\Debug\DS.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\DS\bin\Debug\DS.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\DS\bin\Debug\BE.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\DS\bin\Debug\BE.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.pdb
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\DS\bin\Debug\DS.dll
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\DS\bin\Debug\DS.pdb
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\DS\bin\Debug\BE.dll
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\DS\bin\Debug\BE.pdb
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.dll
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\DS\obj\Debug\DS.pdb

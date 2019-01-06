@@ -1,0 +1,16 @@
+﻿<Window x:Class="PLWPF.Tester.WindowTester"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF.Tester"
+        mc:Ignorable="d"
+        Title="WindowTester" Height="450" Width="800">
+    <Grid Background="#FFB4E0E9">
+        <Image x:Name="image" HorizontalAlignment="Left" Height="43" Margin="495,368,0,0" VerticalAlignment="Top" Width="277" Source="/PLWPF;component/images/משרד התחבורה.png"/>
+        <Button x:Name="BtAddTester" Content="Add Tester" HorizontalAlignment="Center" Margin="121,43,108.333,0" VerticalAlignment="Top" Width="564" Height="72" Click="Button_ClickAddTester" FontSize="30" FontFamily="Rockwell Nova Cond Light" Background="#FFF8F9FA"/>
+        <Button x:Name="BtRemoveTester" Content="Remove Tester" HorizontalAlignment="Center" Margin="121,148,108.333,0" VerticalAlignment="Top" Width="564" Height="72" Click="Button_ClickRemoveTester" FontSize="30" FontFamily="Rockwell Nova Cond Light" Background="#FFF8F9FA"/>
+        <Button x:Name="BtUpadateTester" Content="Update Tester" HorizontalAlignment="Center" Margin="121,253,108.333,0" VerticalAlignment="Top" Width="564" Height="72" Click="Button_ClickUpdateTester" FontSize="30" FontFamily="Rockwell Nova Cond Light" Background="#FFF8F9FA"/>
+
+    </Grid>
+</Window>

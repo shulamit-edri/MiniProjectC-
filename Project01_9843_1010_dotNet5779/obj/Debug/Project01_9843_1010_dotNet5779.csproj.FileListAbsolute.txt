@@ -1,0 +1,18 @@
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\obj\Debug\Project01_9843_1010_dotNet5779.csprojAssemblyReference.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\obj\Debug\Project01_9843_1010_dotNet5779.csproj.CoreCompileInputs.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\Project01_9843_1010_dotNet5779.exe.config
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\Project01_9843_1010_dotNet5779.exe
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\Project01_9843_1010_dotNet5779.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\obj\Debug\Project01_9843_1010_dotNet5779.csproj.CoreCompileInputs.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\obj\Debug\Project01_9843_1010_dotNet5779.exe
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\obj\Debug\Project01_9843_1010_dotNet5779.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\BE.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\BL.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\DAL.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\DS.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\BE.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\BL.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\DAL.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\bin\Debug\DS.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\obj\Debug\Project01_9843_1010_dotNet5779.csprojAssemblyReference.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\Project01_9843_1010_dotNet5779\obj\Debug\Project01_9843_1010_dotNet5779.csproj.CopyComplete

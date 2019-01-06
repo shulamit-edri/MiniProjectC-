@@ -1,0 +1,18 @@
+﻿<Window x:Class="PLWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="557.292" Width="1001.906">
+    <Grid>
+        <Image x:Name="image" Height="auto" Width="auto" Source="images/רקע.jpg"/>
+        <Label Content="PLEASE CLICK ON YOUR CHOICE!" HorizontalAlignment="Center" Margin="231,15,121.333,0" VerticalAlignment="Top" Height="63" Width="643" FontFamily="Rockwell Nova Cond Light" FontSize="30" FontWeight="Bold"/>
+        <Button x:Name="BtTester" Content="Testers" HorizontalAlignment="Left" Margin="61,123,0,0" VerticalAlignment="Top" Width="282" Height="78" Click="Button_ClickTester" FontSize="30" FontFamily="Rockwell Nova Cond Light" Background="#FF57A8D1"/>
+        <Button x:Name="BtTrainee" Content="Trainees" HorizontalAlignment="Left" Margin="61,237,0,0" VerticalAlignment="Top" Width="282" Height="78" Click="Button_ClickTrainee" FontSize="30" FontFamily="Rockwell Nova Cond Light" Background="#FF57A8D1"/>
+        <Button x:Name="BtTest" Content="Tests" HorizontalAlignment="Left" Margin="61,356,0,0" VerticalAlignment="Top" Width="282" Height="78" Click="Button_ClickTest" FontSize="30" FontFamily="Rockwell Nova Cond Light" Background="#FF57A8D1"/>
+        <Image x:Name="image1" HorizontalAlignment="Left" Height="53" Margin="627,470,0,0" VerticalAlignment="Top" Width="343" Source="images/משרד התחבורה.png"/>
+
+    </Grid>
+</Window>

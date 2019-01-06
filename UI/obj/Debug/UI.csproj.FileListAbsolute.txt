@@ -1,0 +1,14 @@
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\UI\bin\Debug\UI.exe.config
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\UI\bin\Debug\UI.exe
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\UI\bin\Debug\UI.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\UI\obj\Debug\UI.exe
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\UI\obj\Debug\UI.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\UI\bin\Debug\UI.exe.config
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\UI\bin\Debug\UI.exe
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\UI\bin\Debug\UI.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\UI\obj\Debug\UI.exe
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\UI\obj\Debug\UI.pdb

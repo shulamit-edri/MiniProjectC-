@@ -1,0 +1,14 @@
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\שלב 1 חדש\Project01_9843_1010_dotNet5779\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\BE\bin\Debug\BE.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\BE\bin\Debug\BE.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\BE\obj\Debug\BE.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\BE\obj\Debug\BE.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\BE\bin\Debug\BE.dll
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\BE\bin\Debug\BE.pdb
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\BE\obj\Debug\BE.dll
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\BE\obj\Debug\BE.pdb

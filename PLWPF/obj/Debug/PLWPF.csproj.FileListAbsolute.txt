@@ -1,0 +1,88 @@
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowTester.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\DS.dll
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\DS.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowAddTester.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowRemoveTester.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowUpdateTester.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowAddTester.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowRemoveTester.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowTester.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowUpdateTester.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\DS.dll
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\bin\Debug\DS.pdb
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowAddTester.g.cs
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowRemoveTester.g.cs
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowTester.g.cs
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowUpdateTester.g.cs
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowAddTrainee.g.cs
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowRemoveTrainee.g.cs
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowTrainee.g.cs
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowUpdateTrainee.g.cs
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowAddTester.baml
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowRemoveTester.baml
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowTester.baml
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Tester\WindowUpdateTester.baml
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowAddTrainee.baml
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowRemoveTrainee.baml
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowTrainee.baml
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowUpdateTrainee.baml
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\rcr\Desktop\מיני פרוקיט WPF\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowAddTrainee.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowRemoveTrainee.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowTrainee.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowUpdateTrainee.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowAddTrainee.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowRemoveTrainee.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowTrainee.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Trainee\WindowUpdateTrainee.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Test\WindowAddTest.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Test\WindowTest.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Test\WindowRemoveTest.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Test\WindowUpdateTest.g.cs
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Test\WindowAddTest.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Test\WindowTest.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Test\WindowRemoveTest.baml
+C:\Users\edris\Documents\לימודים\שנה ג\סמסטר א\מיני פרויקט במערכות חלונות\מיני פרויקט\Project01_9843_1010_dotNet5779\PLWPF\obj\Debug\Test\WindowUpdateTest.baml

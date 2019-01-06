@@ -1,0 +1,98 @@
+﻿<Window x:Class="PLWPF.Tester.WindowUpdateTester"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF.Tester"
+        mc:Ignorable="d"
+        Title="WindowUpdateTester" Height="557.292" Width="1001.906">
+    <Grid Background="#FFB4E0E9" RenderTransformOrigin="0.499,0.481">
+        <Label Content="UPDATE TESTER" HorizontalAlignment="Center" Margin="259,25,246.333,0" VerticalAlignment="Top" Height="56" Width="288" FontFamily="Rockwell Nova Cond Light" FontSize="30" FontWeight="Bold"/>
+        <Label Content="Id:" HorizontalAlignment="Left" Margin="35,118,0,0" VerticalAlignment="Top" Width="33" FontSize="20"/>
+        <ComboBox x:Name="CmbId" HorizontalAlignment="Left" Height="30" Margin="178,123,0,0" VerticalAlignment="Top" Width="190" SelectedValue="{Binding Id, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=True, ValidatesOnExceptions=true}"/>
+        <Label Content="Last Name:" HorizontalAlignment="Left" Margin="35,151,0,0" VerticalAlignment="Top" Width="110" FontSize="20"/>
+        <TextBox x:Name="TxLastName" HorizontalAlignment="Left" Height="30" Margin="178,158,0,0" TextWrapping="Wrap" Text="{Binding LastName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="190"/>
+        <Label Content="First Name:" HorizontalAlignment="Left" Margin="35,188,0,0" VerticalAlignment="Top" Width="110" FontSize="20"/>
+        <TextBox x:Name="TxFirstName" HorizontalAlignment="Left" Height="30" Margin="178,193,0,0" TextWrapping="Wrap" Text="{Binding FirstName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="190"/>
+        <Label Content="Birth Date:" HorizontalAlignment="Left" Margin="35,225,0,0" VerticalAlignment="Top" Width="110" FontSize="20"/>
+        <DatePicker x:Name="DpBirthDate" HorizontalAlignment="Left" Height="30" Width="190" Margin="178,228,0,0" VerticalAlignment="Top" SelectedDate="{Binding Birthday, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" IsTodayHighlighted="True" Text="12/12/1949" DisplayDateStart="1949-01-01" DisplayDateEnd="1979-12-12" IsDropDownOpen="False" DisplayDate="1949-01-01" />
+        <Label Content="Gender:" HorizontalAlignment="Left" Margin="35,257,0,0" VerticalAlignment="Top" Width="110" FontSize="20"/>
+        <ComboBox x:Name="CmbGender" HorizontalAlignment="Left" Height="30" Margin="178,263,0,0" VerticalAlignment="Top" Width="190" SelectedValue="{Binding Gender, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=True, ValidatesOnExceptions=true}"/>
+        <Label Content="Phon number:" HorizontalAlignment="Left" Margin="35,294,0,0" VerticalAlignment="Top" Width="143" FontSize="20"/>
+        <ComboBox x:Name="CmbPhonPrefix" HorizontalAlignment="Left" Height="30" Margin="178,300,0,0" VerticalAlignment="Top" Width="59" SelectedValue="{Binding PhonNum, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=True, ValidatesOnExceptions=true}">
+            <ComboBoxItem Content="050"/>
+            <ComboBoxItem Content="051"/>
+            <ComboBoxItem Content="052"/>
+            <ComboBoxItem Content="053"/>
+            <ComboBoxItem Content="054"/>
+            <ComboBoxItem Content="055"/>
+            <ComboBoxItem Content="058"/>
+        </ComboBox>
+        <TextBox x:Name="TxPhonNumber" HorizontalAlignment="Left" Height="30" Margin="242,300,0,0" TextWrapping="Wrap" Text="{Binding PhonNum, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Address:" HorizontalAlignment="Left" Margin="35,331,0,0" VerticalAlignment="Top" Width="90" FontSize="20"/>
+        <Label Content="Street:" HorizontalAlignment="Left" Margin="167,340,0,0" VerticalAlignment="Top" Width="59" FontSize="15"/>
+        <TextBox x:Name="TxAddressStreet" HorizontalAlignment="Left" Height="30" Margin="242,335,0,0" TextWrapping="Wrap" Text="{Binding Address.street, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Number:" HorizontalAlignment="Left" Margin="167,370,0,0" VerticalAlignment="Top" Width="68" FontSize="15"/>
+        <TextBox x:Name="TxAddressNumber" HorizontalAlignment="Left" Height="30" Margin="242,370,0,0" TextWrapping="Wrap" Text="{Binding Address.number, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="126"/>
+        <Label Content="City:" HorizontalAlignment="Left" Margin="169,405,0,0" VerticalAlignment="Top" Width="68" FontSize="15"/>
+        <TextBox x:Name="TxAddressCity" HorizontalAlignment="Left" Height="30" Margin="242,405,0,0" TextWrapping="Wrap" Text="{Binding Address, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Years of experience:" HorizontalAlignment="Left" Margin="474,118,0,0" VerticalAlignment="Top" Width="183" FontSize="20"/>
+        <TextBox x:Name="TxYearsExperience" HorizontalAlignment="Left" Height="30" Margin="662,124,0,0" TextWrapping="Wrap" Text="{Binding YearsExperience, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="190"/>
+        <Label Content="Type Car:" HorizontalAlignment="Left" Margin="479,153,0,0" VerticalAlignment="Top" Width="183" FontSize="20"/>
+        <ComboBox x:Name="CmbTypeCar" HorizontalAlignment="Left" Height="30" Margin="662,158,0,0" VerticalAlignment="Top" Width="190" SelectedValue="{Binding TesterCar, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=True, ValidatesOnExceptions=true}"/>
+        <Label Content="Max distance you can do to take a trainee:" HorizontalAlignment="Left" Margin="474,193,0,0" VerticalAlignment="Top" Width="395" FontSize="20"/>
+        <TextBox x:Name="TxMaxDistance" HorizontalAlignment="Left" Height="30" Margin="874,196,0,0" TextWrapping="Wrap" Text="{Binding MaxDistance, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="72"/>
+        <Button x:Name="BtUpdateTester" Content="UPDATE" HorizontalAlignment="Left" Margin="798,405,0,0" VerticalAlignment="Top" Width="169" Height="52" Click="Button_ClickUpdate" FontSize="30" FontFamily="Rockwell Nova Cond Light" Background="#FF57A8D1"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="auto" Margin="678,469,0,0" VerticalAlignment="Top" Width="307" Source="/PLWPF;component/images/משרד התחבורה.png"/>
+        <Label Content="Sunday" HorizontalAlignment="Left" Margin="384,278,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Monday" HorizontalAlignment="Left" Margin="384,313,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Tuesday" HorizontalAlignment="Left" Margin="384,348,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Wednesday" HorizontalAlignment="Left" Margin="384,383,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Thursday" HorizontalAlignment="Left" Margin="384,413,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="9:00" HorizontalAlignment="Left" Margin="466,249,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="10:00" HorizontalAlignment="Left" Margin="504,249,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="11:00" HorizontalAlignment="Left" Margin="548,249,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="12:00" HorizontalAlignment="Left" Margin="592,249,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="13:00" HorizontalAlignment="Left" Margin="637,249,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="14:00" HorizontalAlignment="Left" Margin="683,249,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="15:00" HorizontalAlignment="Left" Margin="731,249,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="476,288,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="748,392,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="748,358,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="748,323,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="700,323,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="700,358,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="700,392,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="654,323,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="654,358,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="654,392,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="609,323,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="609,358,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="609,392,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="565,323,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="565,358,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="565,392,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="521,323,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="521,358,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="521,392,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="748,422,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="700,422,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="654,422,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="609,422,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="565,422,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="521,422,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="476,323,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="476,358,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="476,392,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="476,422,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="521,288,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="565,288,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="609,288,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="654,288,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="700,288,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="748,288,0,0" VerticalAlignment="Top" Height="30" Width="20"/>
+
+
+
+    </Grid>
+</Window>
